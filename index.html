@@ -33,10 +33,10 @@
           <em id="beer-description">Beer Description Goes Here</em>
         </p>
 
-        <form id="description-form">
+        <form id="description-form" onsubmit="updateDescription()">
           <label for="description">Edited Description:</label>
           <textarea id="description"></textarea>
-          <button type="submit">Update Beer</button>
+          <button type="submit" class="submitButton">Update Beer</button>
         </form>
 
         <h3>Customer Reviews</h3>
@@ -44,12 +44,13 @@
           <li>Replace with actual reviews</li>
           <li>From the server</li>
         </ul>
-        <form id="review-form">
+        <form id="review-form" onsubmit="submitNewReview()">
           <label for="review">Your Review:</label>
           <textarea id="review"></textarea>
-          <button type="submit">Add review</button>
+          <button type="submit" class="submitButton">Add review</button>
         </form>
       </div>
+      <div id="beer-id"></div>
     </main>
   </body>
 </html>

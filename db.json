@@ -9,7 +9,9 @@
         "It's flat! Just the way I like it!!",
         "Is this the real beer, is this just fantasy?",
         "I've always hated bubbles going up my nose, so this is absolutely delightful.",
-        "Flat straight out of the bottle! No more waiting for the fizziness to subside. Thank you FlattaBeer!! I love you!!!"
+        "Flat straight out of the bottle! No more waiting for the fizziness to subside. Thank you FlattaBeer!! I love you!!!",
+        "It's just fine",
+        "It's mid!"
       ]
     },
     {
@@ -34,10 +36,11 @@
     {
       "id": 4,
       "name": "Electric India",
-      "description": "Tastes like memories",
+      "description": "Tastes like memories.",
       "image_url": "https://images.punkapi.com/v2/6.png",
       "reviews": [
-        "I remember nothing"
+        "I remember nothing",
+        "I remember something."
       ]
     },
     {
@@ -53,7 +56,7 @@
     {
       "id": 6,
       "name": "AB:07",
-      "description": "Whisky cask-aged imperial scotch ale. Beer perfect for when the rain is coming sideways. Liquorice, plum and raisin temper the warming alcohol, producing a beer capable of holding back the Scottish chill.",
+      "description": "Whisky cask-aged imperial scotch ale. Beer perfect for when the rain is coming sideways. Liquorice, plum and raisin temper the warming alcohol, producing a beer capable of holding back the Scottish chills.",
       "image_url": "https://images.punkapi.com/v2/9.png",
       "reviews": [
         "I like to drink this while watching TV",
